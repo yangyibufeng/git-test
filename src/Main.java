@@ -11,5 +11,6 @@ public class Main {
         System.out.println("Hello world! hot-fix");
         System.out.println("Hello world! hot-fix 冲突测试");
         System.out.println("Hello world! master 冲突测试");
+        System.out.println("Hello world! 测试在本地修改完项目之后再push到GitHub上");
     }
 }
