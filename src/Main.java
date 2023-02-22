@@ -9,5 +9,6 @@ public class Main {
         System.out.println("Hello world!333");
         System.out.println("Hello world!333");
         System.out.println("Hello world! hot-fix");
+        System.out.println("Hello world! hot-fix 冲突测试");
     }
 }
